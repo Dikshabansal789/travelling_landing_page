@@ -28,6 +28,8 @@ background-repeat: no-repeat"></body>;
                     extraordinary. 
                 </p>
             </div>
+
+
         </div>
             <div class="action_btns">
                 <button class="btn primary_btn">Explore</button>
@@ -158,5 +160,9 @@ nav{
 .secondary_btn {
     color: var(--secondary-color);
     background-color: transparent;
+}
+
+.action_btns{
+    margin-top:100px;
 }
 
