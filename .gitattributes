@@ -36,6 +36,14 @@ background-repeat: no-repeat"></body>;
                 <button class="btn secondary_btn">See More</button>
                 </div></div>
         </div>
+<<<<<<< HEAD
+=======
+            <div class="action_btns">
+                <button class="btn primary_btn">Explore</button>
+                <button class="btn secondary_btn">See More</button>
+                </div></div>
+        </div>
+>>>>>>> 7fc185400ce156d77643f8a9b12e86f523bb2500
         </div>
     </div>
     
@@ -161,8 +169,11 @@ nav{
     color: var(--secondary-color);
     background-color: transparent;
 }
+<<<<<<< HEAD
 
 .action_btns{
     margin-top:100px;
 }
 
+=======
+>>>>>>> 7fc185400ce156d77643f8a9b12e86f523bb2500
